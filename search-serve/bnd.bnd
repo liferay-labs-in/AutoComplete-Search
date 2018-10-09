@@ -1,0 +1,4 @@
+Bundle-Name: search-serve
+Bundle-SymbolicName: search.serve
+Bundle-Version: 1.0.0
+Export-Package: search.serve.constants
